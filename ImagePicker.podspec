@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ImagePicker"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "测试工具类发布到pod"
 
   # This description is used to generate tags and improve search results.
