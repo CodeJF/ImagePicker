@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "JFImagePicker"
+  s.name         = "XJFImagePicker"
   s.version      = "0.0.1"
   s.summary      = "测试工具类发布到pod"
 
