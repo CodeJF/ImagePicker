@@ -10,7 +10,7 @@ s.platform     = :ios, "8.0"   #平台及版本
 s.ios.deployment_target = "8.0"     #最低系统版本
 s.source       = { :git => "https://github.com/CodeJF/ImagePicker.git" ,:tag => "#{s.version}"}   #工程地址及版本号
 s.requires_arc = true   #是否必须arc
-s.source_files = "BaseModel/*.{h,m}"   #SDK实际的重要文件路径，这里有个坑，后面文章再说
+s.source_files = "SDK/*.{h,m}"   #SDK实际的重要文件路径，这里有个坑，后面文章再说
 s.frameworks   = "UIKit","Foundation"    #需要导入的frameworks名称，注意不要带上frameworks
 
 end
